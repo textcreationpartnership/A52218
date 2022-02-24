@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from the East-Indies</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52218</idno>
+            <idno type="STC">Wing N1007</idno>
+            <idno type="STC">ESTC R36614</idno>
+            <idno type="EEBO-CITATION">15743983</idno>
+            <idno type="OCLC">ocm 15743983</idno>
+            <idno type="VID">104593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1153:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from the East-Indies</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: London, May 12, 1691.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aurangzeb, --  Emperor of Hindustan, 1618-1707.</term>
+               <term>East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104593:1"/>
+            <pb n="1" facs="tcp:104593:1" rendition="simple:additions"/>
+            <head>News from the Eaſt-Indies.</head>
+            <p>THE Committee of the <hi>Eaſt-India</hi> Company and their Abettors having made ſo great a noiſe on the <hi>Exchange</hi> laſt Week, of the advantageous Peace they had obtain'd of the <hi>Great Mogul,</hi> by which the <hi>Notional Stock</hi> was raiſed from 112. to 150. <hi>per Cent.</hi> And it being declared at the <hi>Eaſt-India</hi> Houſe, That the Articles by the new <hi>Phirmaund</hi> (or <hi>Patent</hi>) ſhould be Printed for General Satisfaction; It was with great Earneſt<g ref="char:EOLhyphen"/>neſs expected; in hopes it would appear for the Honour and Advantage of the <hi>Engliſh</hi> Nation. But in lieu thereof, there only appears in the <hi>Mondays</hi> Gazette a ſimple Intimation, <hi>That a Peace is made, and that we enjoy the ſame, <hi>yea</hi> and greater Privileges than formerly.</hi>
+            </p>
+            <p>Now, That the Nation may be fully informed of the true State of the Mat<g ref="char:EOLhyphen"/>ter, and that Widows and other honeſt and well-meaning Perſons, Strangers to the Management of the Company's Affairs may not be miſled, and for the general Good and Service of all; An Exact Copy of the <hi>Phirmaund</hi> for the Bay of <hi>Bengale,</hi> which is one of the principal Ports in the <hi>Mogul</hi>'s Dominions, is here preſented; as the Tranſlation is ſent to the Company from <hi>Surrat</hi> in the following Words.</p>
+            <p>[<hi>'Tis directed to</hi> Ibrahim Chaune, <hi>who is one of the</hi> Mogul<hi>'s great</hi> Governours, <hi>Dated the</hi> 27th. <hi>of</hi> April, <hi>in the</hi> 33d. <hi>Year of his Reign.</hi>]</p>
+            <floatingText xml:lang="eng" type="phirmaund">
+               <body>
+                  <opener>
+                     <salute>IBRAHIM CHAUNE,</salute>
+                  </opener>
+                  <p>
+                     <hi>KNow this, That the Good Fortune of the</hi> Engliſh <hi>hath directed them the Right way to end their Faults, they are ſorry and aſhamed for what they have done, therefore have ſent their Vakeels</hi> [Factors] <hi>to our noble Court, with a Petition for a gracious</hi> Phirmaund <hi>to pardon their Faults; which the King, out of his great Favour and Mercy, always ready to pardon, doth freely forgive them; therefore his clear and un<g ref="char:EOLhyphen"/>ſpotted Order is ſuch, which you are to obſerve as you do his that you pray to, That ſo ſoon as this gracious</hi> Phirmaund <hi>reaches your hands, you ſuffer no body in your Juriſdi<g ref="char:EOLhyphen"/>ction to moleſt, hurt, or hinder the</hi> Engliſh Nation <hi>in their Buſineſs, but ſuffer them to carry it on in the ſame manner as formerly. This underſtand, and act accordingly.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>THis is the Inſtrument that ſtands upon Record in the Court of that Great Prince, to the Eternal Infamy of the <hi>Engliſh</hi> Nation; as the Effect of our moſt unjuſt and unaccountable War, whereby not only the Honour of the <hi>Engliſh</hi> (before in the higheſt Eſteem,) but the Intereſt of the Company in particular, hath ſuffered an Immenſe, and irreparable Damage; tho ſome few Managers) by unwarrantable and indirect Means, have gain'd prodigious Eſtates. For, as to the Nation and Company, after the loſs of ſix years Trade, and the deſtruction of many conſiderable Ships, and the death of many hun<g ref="char:EOLhyphen"/>dreds of our beſt Seamen: The Condition on which we are now re-admitted to Trade, is, That full Reſtitution be made to the <hi>Mogul</hi>'s Subjects for all the Ships and Goods the Company have taken, according to the Accounts which ſhall be given in by the <hi>Crannies</hi> [or <hi>Purſers</hi>] of the Ships taken by the <hi>Engliſh;</hi> And tho we cannot yet tell the certain Sum which muſt be made good, We may ſhrewdly gheſs at it from the Evidence given in the Cauſe now depend<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:104593:2" rendition="simple:additions"/>between Their Majeſties and the Company, on account of thoſe Prizes, wherein a great number of Witneſſes have depoſed to the value of above One Million Sterling; Beſides which, they are likewiſe indebted in <hi>India,</hi> at no ſmall Intereſt, above Three hundred thouſand Pounds more, and no leſs a Sum here at Home, on Bond, and for Freight and Demurrage: Whilſt all their Stock in <hi>England</hi> will not extend to diſcharge their late made Dividend; nor all their Effects abroad, to load home one Third of the Shipping, now in <hi>India,</hi> beſides the great Sums they owe to thoſe Ships for their Service and Demurrage; which is not only manifeſt by the Liberty and Encouragement they give to private Men to return their particular Eſtates on thoſe Bottoms, but eſpecially by the general Letter which accompanied the <hi>Phirmaund,</hi> written to the Company by their Factors at <hi>Surrat,</hi> whereby they earneſtly preſs for a large and ſpeedy Supply to ſupport and carry on the Trade.</p>
+            <p>In conſideration of theſe exorbitant Impoſitions on the Nation, and from a true Affection to their Country, there are ſome Gentlemen and Merchants who have long applied their Thoughts to the reſtoring this ſo conſiderable a Trade, and in order thereto are prepared to lay before our Honourable Repreſentatives in Parliament at their next Seſſion, a clear and ample Account by what ways and means the Credit and Intereſt of the <hi>Engliſh</hi> Nation in <hi>India,</hi> hath been reduc'd to ſo miſerable a Condition, and in the interim they hope it may not be an unac<g ref="char:EOLhyphen"/>ceptable Service to the Publick, That they offer this brief Advertiſement for Caution againſt the preſumptuous Impoſitions of daring and arbitrary Men, who have of late Years encreaſed their Eſtates by the Ruin of their Fellow-Sub<g ref="char:EOLhyphen"/>jects, and have been the Inſtruments of this great Diſhonour and Detriment to their Country.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>May</hi> 12 1691.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
